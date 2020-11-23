@@ -290,12 +290,10 @@ class ChatBot():
         # use start_polling() if running on Windows, Telegram Bot webhook is not supported on Windows
         # updater.start_polling()
 
-        # start chat bot backend in local host using webnhook and ngrok (note: remember to start ngrok tunneling before running chat bot)
+        # use webhook()
         updater.start_webhook(listen="0.0.0.0", port=self.PORT, url_path=self.TOKEN)
-        # updater.bot.set_webhook("https://4f131644df5f.ngrok.io/" + self.TOKEN)
-
-        # start chatbot backend in in heroku using webhook
-        updater.bot.set_webhook("https://isapm1-ay2021-childcareliaison.herokuapp.com/" + self.TOKEN)
+        # updater.bot.set_webhook("https://4f131644df5f.ngrok.io/" + self.TOKEN) # start chat bot backend in local host using webnhook and ngrok (note: remember to start ngrok tunneling before running chat bot)
+        updater.bot.set_webhook("https://isapm1-ay2021-childcareliaison.herokuapp.com/" + self.TOKEN) # start chatbot backend in in heroku using webhook
 
         updater.idle()
         updater.stop()
