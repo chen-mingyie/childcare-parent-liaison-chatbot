@@ -1,9 +1,8 @@
-# Childcare-Parent Liaison Aide
+# Childcare-Parent Liaison Chatbot
 Productivity booster for childcare center administrative staff
 
 ## SECTION 1 : PROJECT TITLE
-## Childcare-Parent Liaison Aide
-![Project picture](https://github.com/chen-mingyie/childcare-parent-liaison-aide/blob/master/Miscellaneous/ChildcareParentLiaisonAide.png)
+## Childcare-Parent Liaison Chatbot
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
@@ -21,28 +20,13 @@ To realize our ideas, we had used a variety of tools, and packages. UiPath was u
 
 | Full Name  | Student ID | Who Did What | Email |
 | :------------ |:---------------:| :-----| :-----|
-| ANG PAU HUANG, EDWIN | A0195275U | Coded email bot using UiPath: Bot informs parents on open house events, follow up on event absentees, and process email feedback. Demo email bot in video. Documented design, development and user guide of bot | e0384906@u.nus.edu|
 | CHEN MINGYI EDMUND | A0031105E | Coded chatbot backend to integrate with Telegram and Dialogflow. Demonstrated chatbot features in video. Documented the design and development of chatbot backed, along with installation and user guide. | e0535232@u.nus.edu|
-| CHEOK MEI LI | A0165420N | Coded the email bot using UiPath for sending invitations to parents and receiving initial replies from parents. Demo the email bot in the video. Completed the section and user guide on the email bot in the project report. | mcheok@u.nus.edu|
-| PADMAPRIYA MATHIVANAN | A0215281M | Google dialog flow agent creation for intent and slot detections with the chatbot. Documentation and video presentation for promotional and demo of system process and functionality. | padmapriya.mathivanan@u.nus.edu|
 
 ---
-
 ## SECTION 4 : PROMOTIONAL VIDEO
 
-<a href="Video/Application Promotional Video.mp4">Application Promotional Video</a><br>
-<a href="Video/Application Video Demo.mp4">Demo on Application Features</a><br>
-
 ## SECTION 5 : USER GUIDE & INSTALLATION GUIDE
-
-Included in Project Report
-
-`Refer to project report at Github Folder: ProjectReport`
-
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
-
-`Refer to project report at Github Folder: ProjectReport`
-
 ---
 
