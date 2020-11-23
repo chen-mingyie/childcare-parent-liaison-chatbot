@@ -1,0 +1,20 @@
+/SourceCode/venv/
+/SourceCode/start flask app.txt
+/app/model/user_preferences.py
+/app/business/rpa_python.log
+/app/business/google-credentials-backup.json
+/app/business/google-credentials.json
+/app/business/Childcare_Parent_Liaison.zip
+/app/business/Childcare_Parent_Liaison_IdentifiedIntent.zip
+/app/model/secret_idandkeys.py
+/SourceCode/ngrok command.txt
+/app/model/google-credentials.json
+/SourceCode/google-credentials.json
+/Sample_database.v3.3_Test Plan.xlsx
+/app/model/Sample_database.v3_backup.xlsx
+/app/model/Sample_database.v3.1_backup.xlsx
+/app/business/date_scheduler.py
+/app/business/tagui_sample.py
+/app/business/email_bot.py
+/.idea/
+
